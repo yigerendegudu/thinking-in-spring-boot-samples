@@ -29,8 +29,7 @@
 - [相关约定](https://mercyblitz.github.io/books/thinking-in-spring-boot/conventions/)
 - [配套视频](https://mercyblitz.github.io/books/thinking-in-spring-boot/videos/)
 - [示例工程](https://mercyblitz.github.io/books/thinking-in-spring-boot/samples/)
-- [勘误汇总](https://mercyblitz.github.io/books/thinking-in-spring-boot/revision/)
-- [公益资金流向](https://mercyblitz.github.io/books/thinking-in-spring-boot/donate/)
+
 
 
 
